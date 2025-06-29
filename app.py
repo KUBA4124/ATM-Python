@@ -2,7 +2,7 @@ import os
 from functions import display, blik_code, deposit_amount, deposit_cash, show_amount, check_balance, code_to_card, change_pin
 from withdraw_cash import withdraw_cash
 file = None
-os.chdir('c:\\Users\\Kuba\\Desktop\\Program')
+
 
 
 while True:
